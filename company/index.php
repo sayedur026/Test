@@ -21,7 +21,9 @@ include 'menu.php';
 								<div class="desc">
 								<h4 mt-30>Package A</h4>
 									<p>
-										Package details
+										2 day promotion<br/>
+										Promote your podcast on 2 days # per day 14 hours work for good reuslt.<br/>
+										Value: $5
 									</p>
 									
 									<button type="button" class="genric-btn success circle" data-toggle="modal" data-target="#myModal_A">Order Now</button>
@@ -34,7 +36,9 @@ include 'menu.php';
 								<div class="desc">
 									<h4 mt-30>Package B</h4>
 									<p>
-										Package details
+										7 day highy ranking<br/>
+										Promote your podcast on 7 days # per day 14 hours work for amazing results 10/15 <br/>
+										Value: $50
 									</p>
 									<button type="button" class="genric-btn success circle" data-toggle="modal" data-target="#myModal_B">Order Now</button>
 								
@@ -47,7 +51,9 @@ include 'menu.php';
 								<div class="desc">
 									<h4 mt-30>Package C</h4>
 									<p>
-										Package details
+										30 day promotion<br/>
+										Promote your podcast on 29 days # per day 14 hours work for amazing results 5/10 ranking<br/>
+										Value: $250
 									</p>
 									<button type="button" class="genric-btn success circle" data-toggle="modal" data-target="#myModal_C">Order Now</button>
 								
@@ -83,7 +89,7 @@ include 'menu.php';
 							<script type="text/javascript" src="engine1/wowslider.js"></script>
 							<script type="text/javascript" src="engine1/script.js"></script>
 							<!-- End WOWSlider.com BODY section -->
-						</div>	<br>					
+						</div>	<br><br><br>	<br><br><br>				
 					</div>
 				</div>
 			</section>

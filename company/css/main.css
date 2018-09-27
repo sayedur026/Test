@@ -2433,7 +2433,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .testimonial-area {
-  background: url(../data1/images/img_bg_1.jpg) no-repeat center center;
+  background: url(../img/img_bg_1.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -2598,7 +2598,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-area {
-  padding-top: 100px;
+  padding-top: 20px;
   background-color: #222222;
 }
 

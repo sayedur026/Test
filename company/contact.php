@@ -35,10 +35,10 @@ if(isset($_GET['sent'])){
 
 							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
 								<div class="colorlib-icon">
-									<i class="fa fa-map-marker" aria-hidden="true"></i>
+									<i class="fa fa-skype" aria-hidden="true"></i>
 								</div>
 								<div class="colorlib-text">
-									<p>Mirpur, Dhaka, Bangladesh</p>
+									<p>nixamdx</p>
 								</div>
 							</div>
 

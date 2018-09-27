@@ -19,7 +19,7 @@ include 'menu.php';
 										</span>
 											<div class="desc">
 												<h3>Marketing</h3>
-												<p>I will do marketing your podcast by social media service</p>
+												<p>Marketing your podcasts by social media network</p>
 											</div>
 										</div>
 									</div>
@@ -33,7 +33,7 @@ include 'menu.php';
 											</span>
 											<div class="desc">
 												<h3>Review</h3>
-												<p>I will give you nice review and rating service</p>
+												<p>Positive reviews and ratings</p>
 											</div>
 										</div>
 									</div>
@@ -41,29 +41,29 @@ include 'menu.php';
 								<div class="table-row">
 									<div class="serial"></div>
 									<div class="country">
-									<div class="services color-6">
-										<span class="icon">
+										<div class="services color-1">
+											<span class="icon">
+												<div class="colorlib-icon">
+													<center><i class="fas fa-cloud-download-alt"></i></center>
+												</div>
+											</span>
+											<div class="desc">
+												<h3>Downloads and Subscribes</h3>
+												<p>Get downloads and subscribes</p>
+											</div>
+										</div>
+									</div>
+									<div class="visit"></div>
+									<div class="percentage">
+										<div class="services color-6">
+											<span class="icon">
 												<div class="colorlib-icon">
 													<center><i class="fas fa-ad"></i></center>
 												</div>
 											</span>
 											<div class="desc">
 												<h3>Promotion</h3>
-												<p>I will give you top rank your podcast on iTunes store service</p>
-											</div>
-										</div>
-									</div>
-									<div class="visit"></div>
-									<div class="percentage">
-									<div class="services color-1">
-										<span class="icon">
-												<div class="colorlib-icon">
-													<center><i class="fas fa-cloud-download-alt"></i></center>
-												</div>
-											</span>
-											<div class="desc">
-												<h3>Download and Subscribe</h3>
-												<p>I will give you many downloads and subscribe for your podcast</p>
+												<p>Get promotion on iTunes</p>
 											</div>
 										</div>
 									</div>
